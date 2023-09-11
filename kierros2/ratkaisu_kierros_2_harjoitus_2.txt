@@ -1,0 +1,2 @@
+Kokeilin gdb- debugerrin käyttöä,
+mutta vielä on paljon harjoiteltavaa.

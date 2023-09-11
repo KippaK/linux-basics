@@ -1,0 +1,11 @@
+Teksti editoreja linux komentoriville:
+ - Vim
+ - Neovim
+ - Nano
+ - Emacs
+
+Itse valitsen Neovim:n käyttöön kurssin ajaksi, 
+koska tämä on hyvä mahdollisuusopetella käyttämään Vim/Neovim komentoja. 
+Esim. :d, :wq, :d5 jne..
+Näillä komennoilla on mahdollista nopeuttaa teksti/koodin editointa 
+todella paljon.

@@ -1,0 +1,28 @@
+Mitä kutsu tekee?
+Man-sivut alkavat yleensä lyhyellä kuvauksella siitä, mitä kyseinen komento tai toiminto tekee. fork-systeemikutsun osalta saatat löytää jotain seuraavaa tyyliä:
+"fork - create a new process" eli "luo uusi prosessi". Tämä kertoo, että fork-kutsu luo uuden prosessin, joka on kopio kutsuvasta prosessista.
+
+Millaiset osiot man-tulostuksesta löytyvät?
+Man-sivut jaetaan usein osioihin, kuten seuraavasti:
+
+NAME: Komennon tai toiminnon nimi ja lyhyt kuvaus.
+SYNOPSIS: Käyttötapa ja mahdolliset parametrit.
+DESCRIPTION: Yksityiskohtainen kuvaus komennon tai toiminnon toiminnasta.
+RETURN VALUE: Mitä komento palauttaa tai mitä arvoja se voi palauttaa.
+EXAMPLES: Esimerkkejä komennon käytöstä.
+SEE ALSO: Viittaukset muihin liittyviin komentoihin tai aiheisiin.
+Ymmärrätkö dokumentaation?
+Man-sivut ovat yleensä kirjoitettu teknisellä kielellä, joten niiden ymmärtäminen voi vaatia tietyn määrän teknistä osaamista. fork-kutsun man-sivut voivat olla melko teknisiä, mutta niistä voi saada hyvän käsityksen siitä, mitä fork tekee, kun luet ne huolellisesti.
+
+Löydätkö saman informaation netin syövereistä?
+Kyllä, voit yleensä löytää saman informaation netin hakukoneiden avulla. Unix-/Linux-dokumentaatioa on saatavilla monilla verkkosivustoilla ja foorumeilla. Man-sivut ovat kuitenkin luotettava lähde, ja ne ovat aina saatavilla järjestelmässäsi.
+
+Millaisiin aihepiireihin man-sivut on jaettu?
+Man-sivut on jaettu eri aihepiireihin tai osiin, joista yleisimpiä ovat:
+
+User Commands: Komentorivikäyttäjien käytettävissä olevat komentoriviohjelmat.
+System Calls: Järjestelmäkutsut, kuten fork, jotka mahdollistavat ohjelmien vuorovaikutuksen järjestelmän kanssa.
+Library Functions: Kirjastofunktiot, jotka ovat ohjelmoijien käytettävissä.
+Special Files: Erityiset tiedostot ja niiden merkitykset.
+File Formats: Tiedostoformaatit ja niiden rakenteet.
+System Administration: Järjestelmänhallintaan liittyvät ohjeet ja komentoriviohjelmat.ä
