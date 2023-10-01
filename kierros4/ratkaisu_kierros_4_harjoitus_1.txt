@@ -1,0 +1,3 @@
+Piippuketju "cat *.txt | tr -cs '[:lower:][:upper:]' '[\n*]'| sort| uniq -c | sort -n|tail|pr -5 -t"
+käy kaikki working directoryn .txt tiedostot läpi ja laskee montako kertaa mikäkin sana ilmenee ja
+tulostaa kymmenen yleisintä sanaa terminaaliin.
