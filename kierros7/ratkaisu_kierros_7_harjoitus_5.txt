@@ -1,0 +1,9 @@
+time ./array -s
+real    0m0.159s
+user    0m0.109s
+sys     0m0.049s
+
+time ./array_thread -s
+real    0m0.078s
+user    0m0.172s
+sys     0m0.400s
